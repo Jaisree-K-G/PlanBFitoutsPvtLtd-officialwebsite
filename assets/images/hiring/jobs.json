@@ -1,0 +1,22 @@
+[
+    {
+        "id": "site-engineer",
+        "title": "Site Engineer",
+        "department": "Projects",
+        "location": "Chennai",
+        "type": "Full Time",
+        "experience": "2–5 Years",
+        "description": "Coordinate and execute interior fit-out works at site with focus on quality, coordination and timely delivery.",
+        "status": "open"
+    },
+    {
+        "id": "interior-designer",
+        "title": "Interior Designer",
+        "department": "Design",
+        "location": "Chennai",
+        "type": "Full Time",
+        "experience": "1–4 Years",
+        "description": "Develop interior design concepts, drawings and presentations for contemporary fit-out projects.",
+        "status": "open"
+    }
+]

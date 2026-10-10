@@ -1,0 +1,116 @@
+[
+    {
+        "image": "workspaces/workspaces-01.jpg",
+        "category": "workspaces",
+        "title": "Open-Plan Corporate Office",
+        "description": "An open-plan workplace with organised workstations, contemporary furnishings and integrated lighting, designed to support focused work and everyday collaboration."
+    },
+    {
+        "image": "workspaces/workspaces-02.jpg",
+        "category": "workspaces",
+        "title": "Executive Lounge",
+        "description": "A welcoming lounge with built-in upholstered seating, timber accents and soft lighting, creating a comfortable space for informal meetings and breaks."
+    },
+    {
+        "image": "workspaces/workspaces-03.jpg",
+        "category": "workspaces",
+        "title": "Executive Meeting Area",
+        "description": "A contemporary meeting space with a central table, comfortable seating and a clean material palette for focused discussions and decision-making."
+    },
+    {
+        "image": "workspaces/workspaces-04.jpg",
+        "category": "workspaces",
+        "title": "Contemporary Conference Room",
+        "description": "A modern conference room combining sculptural ceiling lighting, glazed partitions and a generous meeting table to create a distinctive collaborative setting."
+    },
+    {
+        "image": "workspaces/workspaces-05.jpg",
+        "category": "workspaces",
+        "title": "Compact Meeting Room",
+        "description": "A compact meeting room with a bold accent wall, modern furniture and geometric lighting, planned for private conversations and small-team discussions."
+    },
+    {
+        "image": "workspaces/workspaces-06.jpg",
+        "category": "workspaces",
+        "title": "Boardroom & Meeting Space",
+        "description": "A spacious boardroom with a long conference table, coordinated seating and generous daylight, providing a practical setting for team meetings."
+    },
+    {
+        "image": "workspaces/workspaces-07.jpg",
+        "category": "workspaces",
+        "title": "Collaborative Workstations",
+        "description": "A large shared office arranged with rows of workstations, coordinated furniture and efficient circulation to support a busy working environment."
+    },
+    {
+        "image": "workspaces/workspaces-08.jpg",
+        "category": "workspaces",
+        "title": "Branded Executive Reception",
+        "description": "An executive reception interior featuring a statement desk, warm timber finishes and illuminated shelving, creating a polished first impression."
+    },
+    {
+        "image": "social-hubs/social-hubs-01.jpg",
+        "category": "social-hubs",
+        "title": "Cafeteria Service Counter",
+        "description": "A contemporary food service counter with timber finishes, integrated display areas and a clean layout designed to support an organised dining experience."
+    },
+    {
+        "image": "social-hubs/social-hubs-02.jpg",
+        "category": "social-hubs",
+        "title": "Cafeteria Serving Area",
+        "description": "A streamlined cafeteria counter combining timber detailing, durable surfaces and an open serving layout for efficient food service."
+    },
+    {
+        "image": "social-hubs/social-hubs-03.jpg",
+        "category": "social-hubs",
+        "title": "Contemporary Food Counter",
+        "description": "A distinctive service island with curved forms, integrated lighting and coordinated finishes that brings a strong visual focal point to the dining space."
+    },
+    {
+        "image": "social-hubs/social-hubs-04.jpg",
+        "category": "social-hubs",
+        "title": "Integrated Cafeteria Counter",
+        "description": "A practical food preparation and serving area with a combination of timber cladding, durable work surfaces and carefully coordinated overhead services."
+    },
+    {
+        "image": "social-hubs/social-hubs-05.jpg",
+        "category": "social-hubs",
+        "title": "Open Dining Hall",
+        "description": "An open cafeteria with flexible table arrangements, colourful interior accents and exposed ceiling services designed for everyday group dining."
+    },
+    {
+        "image": "social-hubs/social-hubs-06.jpg",
+        "category": "social-hubs",
+        "title": "Central Dining Island",
+        "description": "A central serving island paired with decorative lighting and patterned flooring, creating an inviting and functional focal point for a shared dining area."
+    },
+    {
+        "image": "social-hubs/social-hubs-07.jpg",
+        "category": "social-hubs",
+        "title": "Employee Dining Space",
+        "description": "A comfortable dining area with communal tables, contemporary lighting and a coordinated wall treatment that encourages employees to gather and unwind."
+    },
+    {
+        "image": "interior-details/interior-details-01.jpg",
+        "category": "interior-details",
+        "title": "Commercial Washroom Vanity",
+        "description": "A commercial washroom with a continuous vanity counter, integrated basins and large mirrors, finished in warm tones for a clean and cohesive appearance."
+    },
+    {
+        "image": "interior-details/interior-details-02.jpg",
+        "category": "interior-details",
+        "title": "Enclosed Focus Booth",
+        "description": "A compact glazed enclosure with a rounded frame and integrated work surface, providing a private setting for focused work or short calls."
+    },
+    {
+        "image": "interior-details/interior-details-03.jpg",
+        "category": "interior-details",
+        "title": "Timber Urinal Partitions",
+        "description": "Timber privacy partitions paired with wall-mounted urinals, combining clear separation, durable finishes and a consistent washroom design."
+    },
+    {
+        "image": "interior-details/interior-details-04.jpg",
+        "category": "interior-details",
+        "title": "Acoustic Focus Room",
+        "description": "A compact private workspace with textured wall finishes, a simple desk and focused pendant lighting, designed for individual work or quiet calls."
+    }
+]
